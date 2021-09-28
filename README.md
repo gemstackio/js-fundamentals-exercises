@@ -1,3 +1,3 @@
 # js-fundamentals-exercises
 
-Please complete all prompts located in the [./prompts.js](./promts.js) file
+Please complete all prompts located in the [./prompts.js](./prompts.js) file
